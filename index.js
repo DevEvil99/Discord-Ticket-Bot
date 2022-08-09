@@ -3,7 +3,6 @@ const { MessageEmbed } = require("discord.js");
 const { Collection, Client } = require("discord.js");
 const { token, default_prefix } = require("./config.json");
 const config = require("./config.json");
-const { red, green, blue } = require("chalk");
 const db = require("quick.db");
 const activities = [
   "https://devevil.xyz",
@@ -17,25 +16,7 @@ const client = new Discord.Client({
 });
 
 client.on("ready", () => {
-  const DevEvil = String.raw`
-
-
-
-
-  _____             ______     _ _ 
- |  __ \           |  ____|   (_) |  
- | |  | | _____   _| |____   ___| |
- | |  | |/ _ \ \ / /  __\ \ / / | |
- | |__| |  __/\ V /| |___\ V /| | |
- |_____/ \___| \_/ |______\_/ |_|_|
-                                                   
-                                                   
-      Ticket Bot is online               
-      Developer: DevEvil#8745
-
-`;
-
-  console.log(blue(DevEvil));
+  console.log('Looser');
   setInterval(() => {
     const randomIndex = Math.floor(Math.random() * (activities.length - 1) + 1);
     const newActivity = activities[randomIndex];
