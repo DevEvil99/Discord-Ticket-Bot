@@ -5,7 +5,7 @@ const { token, default_prefix } = require("./config.json");
 const config = require("./config.json");
 const db = require("quick.db");
 const activities = [
-  "https://devevil.xyz",
+  "https://devevil.com",
   "Server : https://discord.gg/jsQ9UP7kCA",
   "🐢",
 ];
