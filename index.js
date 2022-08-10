@@ -4,6 +4,8 @@ const { Collection, Client } = require("discord.js");
 const { token, default_prefix } = require("./config.json");
 const config = require("./config.json");
 const db = require("quick.db");
+const { readdirSync } = require("fs");
+const fs = require("fs");
 const activities = [
   "https://devevil.com",
   "Server : https://discord.gg/jsQ9UP7kCA",
