@@ -6,7 +6,6 @@ const config = require("./config.json");
 const db = require("quick.db");
 const { readdirSync } = require("fs");
 const fs = require("fs");
-const fs = require("fs");
 const { join, format } = require("path");
 const activities = [
   "https://devevil.com",
@@ -75,4 +74,4 @@ client.on("message", async (message) => {
   }
 });
 
-client.login(config.token)
+client.login(config.token) 
