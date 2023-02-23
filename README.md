@@ -34,19 +34,12 @@ In case of breaking licensing terms we may take legal charges against you.**
 **Donate (Iranian Users Only) : [IDPay](https://idpay.ir/devevilbot)** ❤
 
 **Patreon Soon**
-# Invite My Bots 🤖
-- [**DevEvilBot.xyz - Discord Multipurpose Bot**](https://dsc.gg/dbbot)
-- [**DevEvilBot Music - Discord Music Bot**](https://dsc.gg/dbmusic)
-- [**DevEvilBot Music 2 - Discord Music Bot**](https://dsc.gg/dbmusic2)
-- [**DevEvilBot Anti Raid - Discord Security Bot**](https://dsc.gg/dbar)
-- [**iCord - Discord Multipurpose and Music Bot**](https://dsc.gg/iicord)
-
 
 # LISENCE 📄
 ```
 MIT License
 
-Copyright (c) 2022 DevEvil
+Copyright (c) 2023 DevEvil
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
