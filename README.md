@@ -31,9 +31,7 @@ In case of breaking licensing terms we may take legal charges against you.**
 # Support and credit ✒
 **Developer : [DevEvil](https://devevil.com)** 💻
 
-**Donate (Iranian Users Only) : [IDPay](https://idpay.ir/devevilbot)** ❤
-
-**Patreon Soon**
+**Donate: [OxaPay](https://devevil.com/dnt)** ❤
 
 # LISENCE 📄
 ```
